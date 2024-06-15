@@ -9,6 +9,9 @@ I am a budding Software Engineer, currently honing my skills at [eHA Academy](ht
 - **Version Control**: Git and GitHub
 - **Operating System**: Linux Shell
 
+## 💡 Fun Fact
+I am a bass 🎸 player (if my username wasn't that obvious 😁)
+
 ## 💼 Let's Connect!
 
 I am eager to connect with like-minded individuals and also open to internship opportunities. Feel free to reach out!
