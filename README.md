@@ -16,7 +16,7 @@ I am eager to connect with like-minded individuals and also open to internship o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/elijahishaku)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/iElibazz)
 [![Email](https://img.shields.io/badge/Email-%23333.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:the.elibazz@gmail.com)
-[![Blog/Portfolio](https://img.shields.io/badge/Blog/Portfolio-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://ielibazz.github.io/eHA-Academy-2023)
+[![Blog/Portfolio](https://img.shields.io/badge/Blog/Portfolio-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://elijah-ishaku.vercel.app)
 
 ## 📊 GitHub Analytics
 
